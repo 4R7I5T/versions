@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/4R7I5T/biollm-studio-releases/releases/download/1.121.05711/BioLLM.Studio.arm64.1.121.05711.dmg",
-  "name": "1.121.05711",
-  "version": "d7676418de8854ef3744f11626ab44e61931597e",
-  "productVersion": "1.121.05711",
-  "hash": "9b7151810540879d216ca195c09f0694695ef97d",
-  "timestamp": 1787775200183,
-  "sha256hash": "60fc093d59f6b58f911653cca05e0aa8e66acab8e1817010289952f7eacad284"
+  "url": "https://github.com/4R7I5T/biollm-studio-releases/releases/download/1.121.06673/BioLLM.Studio-darwin-arm64-1.121.06673.zip",
+  "name": "1.121.06673",
+  "version": "4f1468b952e7a85b5a7b6c3abfe0a7207c78675c",
+  "productVersion": "1.121.06673",
+  "hash": "e154354005b1cc8cad16e38ba888210f57dbc1a5",
+  "timestamp": 1791173451677,
+  "sha256hash": "1396f0b42139a05c6e384e055a189e3e36e83206af988f1f1be6a2bd71a33e3d"
 }
