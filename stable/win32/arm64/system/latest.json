@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/4R7I5T/biollm-studio-releases/releases/download/1.121.05711/BioLLM.StudioSetup-arm64-1.121.05711.exe",
-  "name": "1.121.05711",
-  "version": "d7676418de8854ef3744f11626ab44e61931597e",
-  "productVersion": "1.121.05711",
-  "hash": "0dca8c2b56c9beb954b25eadee19a627331322f3",
-  "timestamp": 1787769459788,
-  "sha256hash": "d0e507cb847cc923971def8e798025c5e9acc75ad1d4b7bc21d555b3d53c8ed1"
+  "url": "https://github.com/4R7I5T/biollm-studio-releases/releases/download/1.121.06673/BioLLM.StudioSetup-arm64-1.121.06673.exe",
+  "name": "1.121.06673",
+  "version": "4f1468b952e7a85b5a7b6c3abfe0a7207c78675c",
+  "productVersion": "1.121.06673",
+  "hash": "f12b8147d02be154f765993d53b6c1298bc216e0",
+  "timestamp": 1791169825800,
+  "sha256hash": "9b89ddce511348bfeef1f88463a7ba12c3d6cac869e388ddbc0aa28b8f5b9603"
 }

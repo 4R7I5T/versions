@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/4R7I5T/biollm-studio-releases/releases/download/1.121.05711/BioLLM.Studio-win32-x64-1.121.05711.zip",
-  "name": "1.121.05711",
-  "version": "d7676418de8854ef3744f11626ab44e61931597e",
-  "productVersion": "1.121.05711",
-  "hash": "c9000b55b52b754cc9cc3f930cb9c37f0bc87fdb",
-  "timestamp": 1787769459788,
-  "sha256hash": "5fff1ce8c1632b27410d23dccb1ae5f3c0b1d58406be671feb6c8cd17f59d896"
+  "url": "https://github.com/4R7I5T/biollm-studio-releases/releases/download/1.121.06673/BioLLM.Studio-win32-x64-1.121.06673.zip",
+  "name": "1.121.06673",
+  "version": "4f1468b952e7a85b5a7b6c3abfe0a7207c78675c",
+  "productVersion": "1.121.06673",
+  "hash": "e92018ed14253ac6497f39d9a5f725d2b2271233",
+  "timestamp": 1791169825800,
+  "sha256hash": "1190807e4df7d9d54f4a78fb9504db8430ff1d0648eff6c14e0bfdfec129b976"
 }
